@@ -1,0 +1,3 @@
+--NGNX-ReverseProxy
+    -- To be provided
+    -- NGNX can provide a standard Reverse Proxy equivalent to the one described for Apache.
